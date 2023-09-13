@@ -1,0 +1,829 @@
+@import url("https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;600&display=swap");
+
+.deseo-designs,
+.deseo-designs * {
+  box-sizing: border-box;
+  margin: auto;
+  font-family: "Hanken Grotesk", sans-serif;
+}
+.deseo-designs {
+  background: #ffffff;
+  width: 1440px;
+  height: 3869px;
+  position: relative;
+  box-shadow: 0px 15px 30px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.contact {
+  background: #202823;
+  width: 1441px;
+  height: 29px;
+  position: absolute;
+  left: -1px;
+  top: 0px;
+  overflow: hidden;
+}
+.oladipupoaurora-gmail-com {
+  color: #ffffff;
+  text-align: left;
+  font: 400 14px "Hanken Grotesk", sans-serif;
+  position: absolute;
+  left: 899px;
+  top: 6px;
+}
+._234-7026539589 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 14px "Hanken Grotesk", sans-serif;
+  position: absolute;
+  left: 1186px;
+  top: 6px;
+}
+.nav-bar {
+  background: #ffffff;
+  width: 1441px;
+  height: 51px;
+  position: absolute;
+  left: 0px;
+  top: 29px;
+  overflow: hidden;
+}
+.navi-bar {
+  display: flex;
+  flex-direction: row;
+  gap: 36px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 592px;
+  top: 21px;
+  overflow: hidden;
+}
+.home {
+  color: #0d5327;
+  text-align: left;
+  font: 700 16px "Hanken Grotesk", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.products {
+  color: #000000;
+  text-align: left;
+  font: 400 16px "Hanken Grotesk", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.reviews {
+  color: #000000;
+  text-align: left;
+  font: 400 16px "Hanken Grotesk", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.contact-us {
+  color: #000000;
+  text-align: left;
+  font: 400 16px "Hanken Grotesk", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.hero-section {
+  background: #d6d5d1;
+  width: 1441px;
+  height: 538px;
+  position: absolute;
+  left: 0px;
+  top: 80px;
+  overflow: hidden;
+}
+.mainWatch {
+  width: 733px;
+  height: 553px;
+  position: absolute;
+  left: 708px;
+  top: -15px;
+  overflow: hidden;
+}
+.best-sellers {
+  color: #3b6f4f;
+  text-align: center;
+  font: 700 40px/140% "Hanken Grotesk", sans-serif;
+  position: absolute;
+  left: 152px;
+  top: 742px;
+}
+.welcome {
+  background: #3b6f4f;
+  width: 613px;
+  height: 329px;
+  position: absolute;
+  left: 154px;
+  top: 179px;
+  overflow: hidden;
+}
+.welcome-to-deseo-designs {
+  color: #ffffff;
+  text-align: justified;
+  font: 700 40px/120% "Hanken Grotesk", sans-serif;
+  position: absolute;
+  left: 49px;
+  top: 50px;
+  width: 551px;
+  height: 34px;
+}
+.home-of-luxurious-watches {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Hanken Grotesk", sans-serif;
+  position: absolute;
+  left: 49px;
+  top: 120px;
+}
+.frame-44 {
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  padding: 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  width: 197px;
+  position: absolute;
+  left: 49px;
+  top: 229px;
+}
+.view-product {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px/140% "Hanken Grotesk", sans-serif;
+  position: relative;
+}
+.frame-45 {
+  background: #ffffff;
+  border-radius: 30px;
+  padding: 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  width: 175px;
+  height: 50px;
+  position: absolute;
+  left: 264px;
+  top: 229px;
+}
+.contact-us2 {
+  color: #000000;
+  text-align: left;
+  font: 400 24px/140% "Hanken Grotesk", sans-serif;
+  position: relative;
+}
+.gucci {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 154px;
+  top: 831px;
+}
+.gucci2 {
+  color: #202823;
+  text-align: center;
+  font: 600 24px/140% "Hanken Grotesk", sans-serif;
+  position: relative;
+}
+.frame-50 {
+  flex-shrink: 0;
+  width: 268px;
+  height: 312px;
+  position: relative;
+  overflow: hidden;
+}
+.omega {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 441px;
+  top: 831px;
+}
+.omega2 {
+  color: #202823;
+  text-align: center;
+  font: 600 24px/140% "Hanken Grotesk", sans-serif;
+  position: relative;
+}
+.frame-51 {
+  flex-shrink: 0;
+  width: 269px;
+  height: 312px;
+  position: relative;
+  overflow: hidden;
+}
+.cartier {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 730px;
+  top: 831px;
+}
+.cartier2 {
+  color: #202823;
+  text-align: center;
+  font: 600 24px/140% "Hanken Grotesk", sans-serif;
+  position: relative;
+}
+.frame-52 {
+  flex-shrink: 0;
+  width: 268px;
+  height: 312px;
+  position: relative;
+  overflow: hidden;
+}
+.omega3 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1018px;
+  top: 831px;
+}
+.frame-53 {
+  flex-shrink: 0;
+  width: 267px;
+  height: 312px;
+  position: relative;
+  overflow: hidden;
+}
+.read-more {
+  background: #3b6f4f;
+  border-radius: 30px;
+  padding: 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  width: 152px;
+  height: 50px;
+  position: absolute;
+  left: 1132px;
+  top: 727px;
+}
+.view-more {
+  color: #ffffff;
+  text-align: center;
+  font: 400 20px/140% "Hanken Grotesk", sans-serif;
+  position: relative;
+}
+.second-frame {
+  background: #f6f4f5;
+  width: 1440px;
+  height: 517px;
+  position: absolute;
+  left: 0px;
+  top: 1313px;
+  overflow: hidden;
+}
+.frame-56 {
+  width: 573px;
+  height: 370px;
+  position: absolute;
+  left: 154px;
+  top: 44px;
+  overflow: hidden;
+}
+.line-2 {
+  border-style: solid;
+  border-color: #952d38;
+  border-width: 1px 0 0 0;
+  width: 517px;
+  height: 0px;
+  position: absolute;
+  left: 760px;
+  top: 249px;
+}
+.visit-our-store-for-more-options {
+  color: #000000;
+  text-align: left;
+  font: 600 40px/140% "Hanken Grotesk", sans-serif;
+  position: absolute;
+  left: 760px;
+  top: 112px;
+  width: 458px;
+}
+.smart-watch {
+  color: #202823;
+  text-align: left;
+  font: 400 32px "Hanken Grotesk", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 760px;
+  top: 63px;
+}
+.frame-61 {
+  display: flex;
+  flex-direction: row;
+  gap: 14px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 760px;
+  top: 339px;
+}
+.ellipse-1 {
+  background: #000000;
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.water-resistant {
+  color: #000000;
+  text-align: left;
+  font: 600 15px/140% "Hanken Grotesk", sans-serif;
+  position: relative;
+}
+.features {
+  color: #000000;
+  text-align: left;
+  font: 600 15px/140% "Hanken Grotesk", sans-serif;
+  position: absolute;
+  left: 790px;
+  top: 284px;
+}
+.frame-58 {
+  display: flex;
+  flex-direction: row;
+  gap: 14px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 760px;
+  top: 427px;
+}
+.ellipse-3 {
+  background: #000000;
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.read-heartbeat {
+  color: #000000;
+  text-align: left;
+  font: 600 15px/140% "Hanken Grotesk", sans-serif;
+  position: relative;
+}
+.frame-57 {
+  display: flex;
+  flex-direction: row;
+  gap: 14px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1064px;
+  top: 339px;
+}
+.ellipse-4 {
+  background: #000000;
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.count-steps {
+  color: #000000;
+  text-align: left;
+  font: 600 15px/140% "Hanken Grotesk", sans-serif;
+  position: relative;
+}
+.frame-60 {
+  display: flex;
+  flex-direction: row;
+  gap: 14px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1064px;
+  top: 427px;
+}
+.ellipse-6 {
+  background: #000000;
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.stargate-gold-marble {
+  color: #000000;
+  text-align: left;
+  font: 600 15px/140% "Hanken Grotesk", sans-serif;
+  position: relative;
+  width: 154px;
+}
+.frame-59 {
+  display: flex;
+  flex-direction: row;
+  gap: 14px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 760px;
+  top: 383px;
+}
+.ellipse-2 {
+  background: #000000;
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.pick-calls {
+  color: #000000;
+  text-align: left;
+  font: 600 15px/140% "Hanken Grotesk", sans-serif;
+  position: relative;
+}
+.frame-62 {
+  display: flex;
+  flex-direction: row;
+  gap: 14px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1064px;
+  top: 383px;
+}
+.ellipse-5 {
+  background: #000000;
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.send-messages {
+  color: #000000;
+  text-align: left;
+  font: 600 15px/140% "Hanken Grotesk", sans-serif;
+  position: relative;
+}
+.hublot {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 156px;
+  top: 2070px;
+}
+.frame-64 {
+  flex-shrink: 0;
+  width: 268px;
+  height: 312px;
+  position: relative;
+  overflow: hidden;
+}
+.hublot2 {
+  color: #202823;
+  text-align: center;
+  font: 600 24px/140% "Hanken Grotesk", sans-serif;
+  position: relative;
+}
+.boss {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 441px;
+  top: 2070px;
+}
+.frame-65 {
+  flex-shrink: 0;
+  width: 268px;
+  height: 312px;
+  position: relative;
+  overflow: hidden;
+}
+.boss2 {
+  color: #202823;
+  text-align: center;
+  font: 600 24px/140% "Hanken Grotesk", sans-serif;
+  position: relative;
+}
+.cratier {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 727px;
+  top: 2070px;
+}
+.frame-66 {
+  flex-shrink: 0;
+  width: 268px;
+  height: 312px;
+  position: relative;
+  overflow: hidden;
+}
+.tag {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1019px;
+  top: 2070px;
+}
+.frame-67 {
+  flex-shrink: 0;
+  width: 268px;
+  height: 312px;
+  position: relative;
+  overflow: hidden;
+}
+.tag2 {
+  color: #202823;
+  text-align: center;
+  font: 600 24px/140% "Hanken Grotesk", sans-serif;
+  position: relative;
+}
+.products2 {
+  color: #3b6f4f;
+  text-align: left;
+  font: 700 40px/140% "Hanken Grotesk", sans-serif;
+  position: absolute;
+  left: 154px;
+  top: 1954px;
+}
+.view-more2 {
+  background: #3b6f4f;
+  border-radius: 30px;
+  padding: 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  width: 152px;
+  height: 50px;
+  position: absolute;
+  left: 1137px;
+  top: 1947px;
+}
+.footer {
+  background: #ffffff;
+  width: 1440px;
+  height: 554px;
+  position: absolute;
+  left: 1px;
+  top: 3315px;
+  overflow: hidden;
+}
+.rectangle-58 {
+  background: #202823;
+  width: 1440px;
+  height: 98px;
+  position: absolute;
+  left: 0px;
+  top: 456px;
+}
+.support-privacy-policy-terms-conditions {
+  color: #ffffff;
+  text-align: left;
+  font: 700 20px "Hanken Grotesk", sans-serif;
+  position: absolute;
+  left: 837px;
+  top: 493px;
+}
+.copyright-2023-all-rights-reserved {
+  color: #ffffff;
+  text-align: left;
+  font: 700 20px/150.02% "Hanken Grotesk", sans-serif;
+  position: absolute;
+  left: 160px;
+  top: 487px;
+}
+.footer2 {
+  width: 1118px;
+  height: 243px;
+  position: absolute;
+  left: 160px;
+  top: 107px;
+  overflow: hidden;
+}
+.our-product {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  left: 616.29px;
+  top: 2px;
+}
+.our-product2 {
+  color: #000000;
+  text-align: left;
+  font: 700 24px/140% "Hanken Grotesk", sans-serif;
+  position: relative;
+  width: 144.55px;
+}
+.smart-watch2 {
+  color: #000000;
+  text-align: center;
+  font: 400 20px/140% "Hanken Grotesk", sans-serif;
+  position: relative;
+}
+.male-watches {
+  color: #000000;
+  text-align: center;
+  font: 400 20px/140% "Hanken Grotesk", sans-serif;
+  position: relative;
+}
+.female-watches {
+  color: #000000;
+  text-align: center;
+  font: 400 20px/140% "Hanken Grotesk", sans-serif;
+  position: relative;
+}
+.about-us {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 310px;
+  top: 0px;
+}
+.about-us2 {
+  color: #000000;
+  text-align: left;
+  font: 700 24px/140% "Hanken Grotesk", sans-serif;
+  position: relative;
+  width: 110.18px;
+}
+.we-sell-the-best-quality-of-wristwatches {
+  color: #000000;
+  text-align: left;
+  font: 400 15px/150% "Hanken Grotesk", sans-serif;
+  position: relative;
+  width: 202.17px;
+}
+.contact-us3 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 856.69px;
+  top: 2px;
+}
+.contact-us4 {
+  color: #000000;
+  text-align: left;
+  font: 700 24px/140% "Hanken Grotesk", sans-serif;
+  position: relative;
+  width: 132.42px;
+}
+.oladipupoaurora-gmail-com2 {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Hanken Grotesk", sans-serif;
+  text-transform: lowercase;
+  position: relative;
+}
+._234-70-67961402 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Hanken Grotesk", sans-serif;
+  position: relative;
+  width: 214px;
+}
+.socials {
+  display: flex;
+  flex-direction: row;
+  gap: 46px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 860px;
+  top: 164px;
+  overflow: visible;
+}
+.logo {
+  width: 226.07px;
+  height: 189px;
+  position: absolute;
+  left: 192px;
+  top: 73px;
+}
+.rebview {
+  background: #f6f4f5;
+  width: 1440px;
+  height: 639px;
+  position: absolute;
+  right: -1px;
+  top: 2552px;
+  overflow: hidden;
+}
+.review {
+  position: absolute;
+  inset: 0;
+}
+.ri-double-quotes-r {
+  position: absolute;
+  left: calc(50% - 74.97px);
+  bottom: 343.08px;
+  overflow: visible;
+}
+.ri-double-quotes-l {
+  position: absolute;
+  left: calc(50% - 563.84px);
+  bottom: 412px;
+  overflow: visible;
+}
+.i-got-the-watch-as-advertised-and-at-the-stipulated-time-of-arrival-deseo-can-be-trusted {
+  color: #000000;
+  text-align: center;
+  font: 600 23.7px/150% "Hanken Grotesk", sans-serif;
+  position: absolute;
+  left: calc(50% - 564px);
+  bottom: 314px;
+  width: 564px;
+  height: 126px;
+}
+.adedamola {
+  color: #000000;
+  text-align: center;
+  font: 600 35.55px/150% "Hanken Grotesk", sans-serif;
+  position: absolute;
+  left: calc(50% - 407.72px);
+  bottom: 224.04px;
+  width: 219.38px;
+}
+.customer {
+  color: #000000;
+  text-align: center;
+  font: 600 19.75px/150% "Hanken Grotesk", sans-serif;
+  position: absolute;
+  left: calc(50% - 393.64px);
+  bottom: 199.63px;
+  width: 195.91px;
+}
+.picture {
+  width: 458px;
+  height: 502px;
+  position: absolute;
+  left: calc(50% - -102px);
+  bottom: 69px;
+  overflow: hidden;
+}
+.reviews2 {
+  color: #3b6f4f;
+  text-align: left;
+  font: 700 39.51px/140% "Hanken Grotesk", sans-serif;
+  position: absolute;
+  left: 155.06px;
+  top: 22.72px;
+}
+.arrow-9 {
+  position: absolute;
+  left: 1294px;
+  top: 344px;
+  overflow: visible;
+}
+.image-9 {
+  width: 81px;
+  height: 60px;
+  position: absolute;
+  left: 157px;
+  top: 20px;
+}
